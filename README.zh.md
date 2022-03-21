@@ -27,11 +27,7 @@
 
 
 
-## 支付购买
 
-<img src="Readme/Images/SDK/pay.png" border="0" name="submit"></a>
-
-邮箱:1053050442@qq.com
 
 ## 注册
 打开工程->Unity顶部标题栏->Tools>Register SDK
@@ -40,8 +36,6 @@
 
 ## 截图
 
-![Image text](Readme/Images/Screenshoots/hls2.jpg)
-![Image text](Readme/Images/Screenshoots/pc_chat.jpg)
 ![Image text](Readme/Images/Screenshoots/hls.jpg)
 ![Image text](Readme/Images/Screenshoots/06.jpg)
 

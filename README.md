@@ -24,11 +24,7 @@
 
 ## Latest Version Update
 - SDK update to **v1.1.8**
-## Pay
 
-<img src="Readme/Images/SDK/pay.png"  ></a>
-
-Email:1053050442@qq.com
 ## Register
 Open the project->Unity top title bar->Tools>Register SDK
 

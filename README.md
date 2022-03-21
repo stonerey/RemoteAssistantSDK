@@ -32,7 +32,7 @@ Open the project->Unity top title bar->Tools>Register SDK
 ## APP Screenshots
 
 
-![Image text](Readme/Images/Screenshoots/pc_chat.jpg)
+
 ![Image text](Readme/Images/Screenshoots/hls.jpg)
 ![Image text](Readme/Images/Screenshoots/06.jpg)
 
